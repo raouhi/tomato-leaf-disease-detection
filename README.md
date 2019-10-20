@@ -1,4 +1,4 @@
-# Tomato leaf disease detection
+# Tomato Leaf Disease Classification
 Plant diseases put on a heavy toll on the agricultural economy. Early detection and prevention project promising results in cutting losses. However, using expert knowledge is not a scalable solution to this problem in any shape or form. Building autonomous systems based on the state-of-the-art techniques of deep learning is of high importance. Here, we analyze and compare two such models through the lens of four augmented architectures. The best and most stable model architecture yields 86.69% accuracy.  
 
 ## 1. Data
